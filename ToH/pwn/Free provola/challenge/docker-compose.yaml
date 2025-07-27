@@ -1,0 +1,16 @@
+services:
+  free-provola:
+    container_name: free-provola
+    build: .
+    restart: unless-stopped
+    networks:
+      - free-provola-net
+    privileged: true
+    ports:
+      - "1337:1337"
+    environment:
+      POW_DIFFICULTY_SECONDS: "0"
+
+networks:
+  free-provola-net:
+    driver: bridge 
