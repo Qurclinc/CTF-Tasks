@@ -1,0 +1,6 @@
+['3_F', '_th', 'her', '3ak', 'min', 'l4g', 'kil', 'L3a', 'adm', 'L3A', 'dde', 
+'h3_', 'den', 'hid', 'ont', 'uck', 'ily', 'ten', 'Fl4', 'Not', 'fla', 'ak1', 
+'ell', '3AK', 'Wel', 'the', 'cki', 'th3', 'dmi', 'lag', 'luc', 'g_t', 'ent',
+ 'nte', '_Fl', '1ng', 'con', 'idd', 'ere', 'ng_', 'k1n']
+
+L3AK{L3ak1ng_th3_Fl4g}
